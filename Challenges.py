@@ -12,7 +12,7 @@
 
 # 3-Challenge
 
-num1 = input ('Me diga um numero =') 
-num2 = input ('Me diga mais um numero =')
-
-print(num1 + num2)
+n1 = int(input('Digite um numero: ')) 
+n2 = int(input('Digite mais um numero: '))
+s = n1 + n2
+print('A soma é igual a', s)  
